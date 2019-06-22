@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/829e5980ade13f6bd136e736cbc045b6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d885ee47112e9631b409ba7812d1758a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/a343f15a5631a0b2604f30e43f2bfbd7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/21dea9f199c20ab5cedacfa323151c08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/12c69409ab372ecc53c8702d0ea6a37d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/99be0be26653eb3395fc631118655138/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/2b67f6a1c83f05ed0c5df116edae67c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/4aea40af9d397c11ec80f0bae36db4ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/de43268f861ffc9ce1ecc755ce8e14ad/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b7acdb84445b968c75d99d2ac5385039/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/ade69ef9b569e812a5d0a3c6476dae9b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/174ee258b8c99ea4813fdf558e291f31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/fe0db60483491a39510cc27f17cbb73a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/16adfe82f02a16a322805c3c7235dd1f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/f67ac9f19a49296d5da5fa98a7496fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/7b4c481dc7ea1b6f04321ab002c46355/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/bf99724d775bef9834c22129671b941c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/5dc9497b43438bb69849680151454499/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/0b1b5273d31f9200c39dc5002704946c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/46c406475dcb567949dee00d556346b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b2bb6c252560ef0bb4cb7b55ea75492e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d36cae235b044e37e6c05bf2e96331e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b11ad25d0d0e74258795d292812eff4c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/96b18e1093a3b58071f8f1360694c49e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b1f15ecb2b7690db79a56258d38d5cbb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/045f69670559676531cd59b7d8e49a55/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d885ee47112e9631b409ba7812d1758a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d885ee47112e9631b409ba7812d1758a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/7b4c481dc7ea1b6f04321ab002c46355/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/7b4c481dc7ea1b6f04321ab002c46355/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.battingcards.MainActivity
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/829e5980ade13f6bd136e736cbc045b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/829e5980ade13f6bd136e736cbc045b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d885ee47112e9631b409ba7812d1758a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d885ee47112e9631b409ba7812d1758a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/a343f15a5631a0b2604f30e43f2bfbd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/a343f15a5631a0b2604f30e43f2bfbd7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/21dea9f199c20ab5cedacfa323151c08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/21dea9f199c20ab5cedacfa323151c08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/12c69409ab372ecc53c8702d0ea6a37d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/12c69409ab372ecc53c8702d0ea6a37d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/99be0be26653eb3395fc631118655138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/99be0be26653eb3395fc631118655138/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/2b67f6a1c83f05ed0c5df116edae67c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/2b67f6a1c83f05ed0c5df116edae67c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/4aea40af9d397c11ec80f0bae36db4ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/4aea40af9d397c11ec80f0bae36db4ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/de43268f861ffc9ce1ecc755ce8e14ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/de43268f861ffc9ce1ecc755ce8e14ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b7acdb84445b968c75d99d2ac5385039/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b7acdb84445b968c75d99d2ac5385039/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/ade69ef9b569e812a5d0a3c6476dae9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/ade69ef9b569e812a5d0a3c6476dae9b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/174ee258b8c99ea4813fdf558e291f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/174ee258b8c99ea4813fdf558e291f31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/fe0db60483491a39510cc27f17cbb73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/fe0db60483491a39510cc27f17cbb73a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/16adfe82f02a16a322805c3c7235dd1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/16adfe82f02a16a322805c3c7235dd1f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/f67ac9f19a49296d5da5fa98a7496fa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/f67ac9f19a49296d5da5fa98a7496fa8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d617e27dfd0a87318215255cba5b674d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/7b4c481dc7ea1b6f04321ab002c46355/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/7b4c481dc7ea1b6f04321ab002c46355/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/bf99724d775bef9834c22129671b941c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/bf99724d775bef9834c22129671b941c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/5dc9497b43438bb69849680151454499/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/5dc9497b43438bb69849680151454499/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/0b1b5273d31f9200c39dc5002704946c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/0b1b5273d31f9200c39dc5002704946c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/46c406475dcb567949dee00d556346b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/46c406475dcb567949dee00d556346b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b2bb6c252560ef0bb4cb7b55ea75492e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b2bb6c252560ef0bb4cb7b55ea75492e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d36cae235b044e37e6c05bf2e96331e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/d36cae235b044e37e6c05bf2e96331e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b11ad25d0d0e74258795d292812eff4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b11ad25d0d0e74258795d292812eff4c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/96b18e1093a3b58071f8f1360694c49e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/96b18e1093a3b58071f8f1360694c49e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b1f15ecb2b7690db79a56258d38d5cbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/b1f15ecb2b7690db79a56258d38d5cbb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/045f69670559676531cd59b7d8e49a55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/imperiallord/.gradle/caches/transforms-2/files-2.1/045f69670559676531cd59b7d8e49a55/AndroidManifest.xml:20:5-44
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		ADDED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
+		INJECTED from /home/imperiallord/Downloads/BattingCards/app/src/main/AndroidManifest.xml
